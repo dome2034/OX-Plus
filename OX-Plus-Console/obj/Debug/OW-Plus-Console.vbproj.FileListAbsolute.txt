@@ -1,0 +1,20 @@
+c:\users\thanakit\documents\visual studio 2015\Projects\OW-Plus-Console\OW-Plus-Console\bin\Debug\OW-Plus-Console.exe.config
+c:\users\thanakit\documents\visual studio 2015\Projects\OW-Plus-Console\OW-Plus-Console\bin\Debug\OW-Plus-Console.exe
+c:\users\thanakit\documents\visual studio 2015\Projects\OW-Plus-Console\OW-Plus-Console\bin\Debug\OW-Plus-Console.pdb
+c:\users\thanakit\documents\visual studio 2015\Projects\OW-Plus-Console\OW-Plus-Console\bin\Debug\OW-Plus-Console.xml
+c:\users\thanakit\documents\visual studio 2015\Projects\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW_Plus_Console.Resources.resources
+c:\users\thanakit\documents\visual studio 2015\Projects\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW-Plus-Console.vbproj.GenerateResource.Cache
+c:\users\thanakit\documents\visual studio 2015\Projects\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW-Plus-Console.exe
+c:\users\thanakit\documents\visual studio 2015\Projects\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW-Plus-Console.xml
+c:\users\thanakit\documents\visual studio 2015\Projects\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW-Plus-Console.pdb
+c:\users\thanakit\documents\visual studio 2015\Projects\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW-Plus-Console.vbprojResolveAssemblyReference.cache
+E:\งาน ป.โท\OW-Plus-Console\OW-Plus-Console\bin\Debug\OW-Plus-Console.exe.config
+E:\งาน ป.โท\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW-Plus-Console.exe
+E:\งาน ป.โท\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW-Plus-Console.xml
+E:\งาน ป.โท\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW-Plus-Console.pdb
+E:\งาน ป.โท\OW-Plus-Console\OW-Plus-Console\bin\Debug\OW-Plus-Console.exe
+E:\งาน ป.โท\OW-Plus-Console\OW-Plus-Console\bin\Debug\OW-Plus-Console.pdb
+E:\งาน ป.โท\OW-Plus-Console\OW-Plus-Console\bin\Debug\OW-Plus-Console.xml
+E:\งาน ป.โท\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW-Plus-Console.vbprojResolveAssemblyReference.cache
+E:\งาน ป.โท\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW_Plus_Console.Resources.resources
+E:\งาน ป.โท\OW-Plus-Console\OW-Plus-Console\obj\Debug\OW-Plus-Console.vbproj.GenerateResource.Cache
